@@ -1,4 +1,3 @@
-// src/main/java/org/example/service/CustomerService.java
 package org.example.service;
 
 import org.example.entity.Address;
